@@ -2,9 +2,10 @@
     "lives": [
         {
             "name": "m3u",
+            "type": 0,
             "url": "https://www.stream-link.org/stream-link.m3u",
             "playerType": 2,
-            "boot": true
+            "boot": "true"
         }
     ]
 }
