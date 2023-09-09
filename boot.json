@@ -1,17 +1,18 @@
+{   "lives": [
 {
       "name": "live",
       "type":0,
-      "boot":"true"
-      "url": "https://github.com/live.m3u",
-      "name": "TXT",
+      "boot":"true",
+      "url": "https://www.stream-link.org/stream-link.m3u",
       "playerType": 1,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-      "playerType": 2
     },
     {
       "name": "m3u",
       "url": "https://www.stream-link.org/stream-link.m3u",
       "playerType": 2,
       "boot": true
-    }
+        }
+    ]
+}
